@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\8d9cb21f6bacc46fea15de070b1f0cfe\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dfc683ef5edad58abffd6658c5828bbe\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\f492946b069962e7fa58f6b41c35278c\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\02ae999eb232601f3ec52de035e0bd47\transformed\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\HP800g1\.gradle\caches\transforms-3\31201da187717c0235809d9e34efe91d\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a9636daf48fddc9f6002312b4fa0464e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d6e32c15228cd44c3db0c1a98ef71b3e\transformed\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a1e24e64f76b36bd3ef5e5bc6c5c9511\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b187d7e35aaca1aa8d1a185191f71d3d\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dde33251f1b85dd1ac399d12afc07e3b\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d046b29c2e781350401f01226b104dd4\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7438c0036b91dd8fe6630c6bb6283604\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\2a2ec2b080600077665d48a24da87a41\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6cc57e4148ccac538e9979de7f8c22ff\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\422e13ee09674e88432aa6981e8c4fd3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b9e841418a8402c5934a2fc877cb7471\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\72bf02313c914eb6fa0fc679f6501149\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dd9536b73adf439aea5bd6c97a192404\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\HP800g1\.gradle\caches\transforms-3\8a5aecabaf57bf5d0a395aa33fbc7a4e\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7e5b3e0906955da82c3672dfc03fea8d\transformed\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9b2e9bfa36e900d15e2e810cba27354\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\95929565845c474641d2f32da1ac1b90\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\36e563a0728fc0996e6e7466546dce2a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46e8ea6d1d7cbc30dbdb9575c511786e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\59a171b18889563037ee33c9f8f4a5a4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7712c8b67f201fa7e4e91750844d732a\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\84ad3a027b96a148662c11bdd1a7ba12\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9afcb1a7967701ee0943c8f08afc953\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46f2f397d33e976449596038f4dd96d3\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\358379b9e3c0901b9ececf615267e160\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\3935182002ec0db48bd46e3e8814f658\transformed\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\33c02b0c34e71a2d06addcd4f1022ff5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1c921edd22d6dc2c1c38369a813ba481\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\4e1e35a0e1aa6f79e324fecad6e85cc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\45fd51d88aeeba19590476618a3bbff3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\014e4898b5b67f19ed32e3b61fb4b890\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\392b94e13f826fd28a45147ba87dbe34\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\cda44b5b332dfb00aff9fecdd7b88dcd\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\ea71ecdd10db2af0f5cbc6c55075a598\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b8834b6f80b2148246acad9f1d110705\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6492e066dc04706659979432543c09d5\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\47ace9942509588fb277ded36dd40ab5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\715b043588a904fc48245fd10d1cdcad\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1457b3481ffa636b3cd13a7c323c3d7f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\e72bf2390bfce5d7f4d4d08238c66f7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\5cfcf51b22c1f7f851df935901c720c3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\0beb09a4492b6fc41e0abc0d55987b6a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\694ee8a0cadfdc50cc9d36ab8b642f5c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\18086159137d624eeddaaca094548502\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\19ec302f27c1f3ca538a51aea9ce0322\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:8:5-82
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:8:22-79
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:11:5-60:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\HP800g1\.gradle\caches\transforms-3\31201da187717c0235809d9e34efe91d\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\HP800g1\.gradle\caches\transforms-3\31201da187717c0235809d9e34efe91d\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a9636daf48fddc9f6002312b4fa0464e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a9636daf48fddc9f6002312b4fa0464e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dde33251f1b85dd1ac399d12afc07e3b\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dde33251f1b85dd1ac399d12afc07e3b\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d046b29c2e781350401f01226b104dd4\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d046b29c2e781350401f01226b104dd4\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\392b94e13f826fd28a45147ba87dbe34\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\392b94e13f826fd28a45147ba87dbe34\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1457b3481ffa636b3cd13a7c323c3d7f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1457b3481ffa636b3cd13a7c323c3d7f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:15:9-42
+	android:icon
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:13:9-37
+	android:allowBackup
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:17:9-42
+activity#com.example.fintrack.Activity.ForgotscrenActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:19:13-77
+activity#com.example.fintrack.Activity.AddIncomeExpenseActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:22:13-82
+activity#com.example.fintrack.Activity.TransactionActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:25:13-77
+activity#com.example.fintrack.Activity.AboutusActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:28:13-73
+activity#com.example.fintrack.Activity.ContactusActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:31:13-75
+activity#com.example.fintrack.Activity.ChangepasswordActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:34:13-80
+activity#com.example.fintrack.Activity.ProfilescreenActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:37:13-79
+activity#com.example.fintrack.Activity.SplashActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:39:9-46:20
+	android:theme
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:41:13-58
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:40:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.fintrack.Activity.LoginActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:48:13-71
+activity#com.example.fintrack.Activity.SignupActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:51:13-72
+activity#com.example.fintrack.Activity.HomeScreenActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:53:9-55:39
+	android:exported
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:54:13-76
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:56:9-58:59
+	android:theme
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:57:13-76
+activity#com.example.fintrack.Utils.AccessMediaUtil
+ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:59:9-79
+	android:name
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml:59:19-76
+uses-sdk
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\8d9cb21f6bacc46fea15de070b1f0cfe\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\8d9cb21f6bacc46fea15de070b1f0cfe\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dfc683ef5edad58abffd6658c5828bbe\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dfc683ef5edad58abffd6658c5828bbe\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\f492946b069962e7fa58f6b41c35278c\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\f492946b069962e7fa58f6b41c35278c\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\02ae999eb232601f3ec52de035e0bd47\transformed\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\02ae999eb232601f3ec52de035e0bd47\transformed\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\HP800g1\.gradle\caches\transforms-3\31201da187717c0235809d9e34efe91d\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\HP800g1\.gradle\caches\transforms-3\31201da187717c0235809d9e34efe91d\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a9636daf48fddc9f6002312b4fa0464e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a9636daf48fddc9f6002312b4fa0464e\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d6e32c15228cd44c3db0c1a98ef71b3e\transformed\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d6e32c15228cd44c3db0c1a98ef71b3e\transformed\jetified-android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a1e24e64f76b36bd3ef5e5bc6c5c9511\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a1e24e64f76b36bd3ef5e5bc6c5c9511\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b187d7e35aaca1aa8d1a185191f71d3d\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b187d7e35aaca1aa8d1a185191f71d3d\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dde33251f1b85dd1ac399d12afc07e3b\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dde33251f1b85dd1ac399d12afc07e3b\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d046b29c2e781350401f01226b104dd4\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\d046b29c2e781350401f01226b104dd4\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7438c0036b91dd8fe6630c6bb6283604\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7438c0036b91dd8fe6630c6bb6283604\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\2a2ec2b080600077665d48a24da87a41\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\2a2ec2b080600077665d48a24da87a41\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6cc57e4148ccac538e9979de7f8c22ff\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6cc57e4148ccac538e9979de7f8c22ff\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\422e13ee09674e88432aa6981e8c4fd3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\422e13ee09674e88432aa6981e8c4fd3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b9e841418a8402c5934a2fc877cb7471\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b9e841418a8402c5934a2fc877cb7471\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\72bf02313c914eb6fa0fc679f6501149\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\72bf02313c914eb6fa0fc679f6501149\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dd9536b73adf439aea5bd6c97a192404\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\dd9536b73adf439aea5bd6c97a192404\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\HP800g1\.gradle\caches\transforms-3\8a5aecabaf57bf5d0a395aa33fbc7a4e\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\HP800g1\.gradle\caches\transforms-3\8a5aecabaf57bf5d0a395aa33fbc7a4e\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7e5b3e0906955da82c3672dfc03fea8d\transformed\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7e5b3e0906955da82c3672dfc03fea8d\transformed\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9b2e9bfa36e900d15e2e810cba27354\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9b2e9bfa36e900d15e2e810cba27354\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\95929565845c474641d2f32da1ac1b90\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\95929565845c474641d2f32da1ac1b90\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\36e563a0728fc0996e6e7466546dce2a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\36e563a0728fc0996e6e7466546dce2a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46e8ea6d1d7cbc30dbdb9575c511786e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46e8ea6d1d7cbc30dbdb9575c511786e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\59a171b18889563037ee33c9f8f4a5a4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\59a171b18889563037ee33c9f8f4a5a4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7712c8b67f201fa7e4e91750844d732a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\7712c8b67f201fa7e4e91750844d732a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\84ad3a027b96a148662c11bdd1a7ba12\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\84ad3a027b96a148662c11bdd1a7ba12\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9afcb1a7967701ee0943c8f08afc953\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\a9afcb1a7967701ee0943c8f08afc953\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46f2f397d33e976449596038f4dd96d3\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\46f2f397d33e976449596038f4dd96d3\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\358379b9e3c0901b9ececf615267e160\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\358379b9e3c0901b9ececf615267e160\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\3935182002ec0db48bd46e3e8814f658\transformed\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] C:\Users\HP800g1\.gradle\caches\transforms-3\3935182002ec0db48bd46e3e8814f658\transformed\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\33c02b0c34e71a2d06addcd4f1022ff5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\33c02b0c34e71a2d06addcd4f1022ff5\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1c921edd22d6dc2c1c38369a813ba481\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1c921edd22d6dc2c1c38369a813ba481\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP800g1\.gradle\caches\transforms-3\a55a305e873455b52140d108a1ec5499\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\4e1e35a0e1aa6f79e324fecad6e85cc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\4e1e35a0e1aa6f79e324fecad6e85cc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\45fd51d88aeeba19590476618a3bbff3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\45fd51d88aeeba19590476618a3bbff3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\014e4898b5b67f19ed32e3b61fb4b890\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\014e4898b5b67f19ed32e3b61fb4b890\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\392b94e13f826fd28a45147ba87dbe34\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP800g1\.gradle\caches\transforms-3\392b94e13f826fd28a45147ba87dbe34\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\cda44b5b332dfb00aff9fecdd7b88dcd\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\cda44b5b332dfb00aff9fecdd7b88dcd\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\ea71ecdd10db2af0f5cbc6c55075a598\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\ea71ecdd10db2af0f5cbc6c55075a598\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b8834b6f80b2148246acad9f1d110705\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\b8834b6f80b2148246acad9f1d110705\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6492e066dc04706659979432543c09d5\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\6492e066dc04706659979432543c09d5\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\47ace9942509588fb277ded36dd40ab5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\47ace9942509588fb277ded36dd40ab5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\715b043588a904fc48245fd10d1cdcad\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\715b043588a904fc48245fd10d1cdcad\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1457b3481ffa636b3cd13a7c323c3d7f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP800g1\.gradle\caches\transforms-3\1457b3481ffa636b3cd13a7c323c3d7f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\e72bf2390bfce5d7f4d4d08238c66f7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\HP800g1\.gradle\caches\transforms-3\e72bf2390bfce5d7f4d4d08238c66f7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\5cfcf51b22c1f7f851df935901c720c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\5cfcf51b22c1f7f851df935901c720c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\0beb09a4492b6fc41e0abc0d55987b6a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\0beb09a4492b6fc41e0abc0d55987b6a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\694ee8a0cadfdc50cc9d36ab8b642f5c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\694ee8a0cadfdc50cc9d36ab8b642f5c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\18086159137d624eeddaaca094548502\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\18086159137d624eeddaaca094548502\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\19ec302f27c1f3ca538a51aea9ce0322\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\HP800g1\.gradle\caches\transforms-3\19ec302f27c1f3ca538a51aea9ce0322\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP800g1\Desktop\FinTrack[1]\FinTrack\app\src\main\AndroidManifest.xml
